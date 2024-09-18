@@ -15,7 +15,7 @@ The main tools used in this project:
 
 ### Data Flow Pipeline Plan:
 
-##Source (Azure SQL - two tables) --> Join (Data Flow) --> Sink (Blob Storage - CSV)
+Source (Azure SQL - two tables) --> Join (Data Flow) --> Sink (Blob Storage - CSV)
 
 ## Prerequisites
 Before starting, ensure the following resources are set up in Azure:
